@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 findViewById(R.id.background).setBackgroundColor(getResources().getColor(R.color.light_blue));
                 // change text back to its original
                 textView.setText("Hello from Uchechukwu");
+                
             }
         });
 
